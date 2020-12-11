@@ -55,4 +55,6 @@
     <color name="mapboxYellowLight">#FFF5A0</color>
     <color name="mapboxYellowFaint">#FCFCDF</color>
 
+    <color name="black_semi_transparent">#B2000000</color>
+
 </resources>

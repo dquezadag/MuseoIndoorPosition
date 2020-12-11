@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Depósito Archivo",
+        "description": "Descripción del Archivo",
+        "floor": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.168737,
+          40.635532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sala De Día",
+        "description": "Descripción de la Sala del Día",
+        "floor": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -3.1688817,
+        40.6358486
+        ]
+      }
+    }
+  ]
+}

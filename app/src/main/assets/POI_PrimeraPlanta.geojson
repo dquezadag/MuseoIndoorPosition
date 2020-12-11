@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salon de Actos",
+                "description": "Descripción de la Sala de Actos",
+                "floor": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1684132,
+                    40.6358722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sala Audiovisual",
+                "description": "Descripción de la \n Sala de Audiovisuales",
+                "floor": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1686821,
+                    40.6360039
+                ]
+            }
+        }
+    ]
+}
