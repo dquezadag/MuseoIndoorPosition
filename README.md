@@ -1,4 +1,4 @@
-# University of Alacalá Indoor Positioning APP
+# University of Alcalá Indoor Positioning APP
 
 ### Overview 
 
